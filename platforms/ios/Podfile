@@ -1,1 +1,1 @@
-pod 'BiometricAuthentication'
+pod 'BiometricAuthentication', '~> 2.0.1'
